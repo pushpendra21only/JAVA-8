@@ -1,4 +1,4 @@
-package com.example.java8;
+package com.example.java8.stream;
 
 import java.util.List;
 import java.util.function.Predicate;
