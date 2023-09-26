@@ -5,8 +5,8 @@ import java.util.Arrays;
 public class AllNumbersStartWith1 {
 public static void main(String args[]) {
 /*
-   Stream map(Function mapper) returns a stream consisting of the results of applying the given function to the
-   elements of this stream.
+The map method is used to return a stream consisting of the results of applying
+  the given function to the elements of this stream
 
    Stream map(Function mapper) is an intermediate operation. These operations are always lazy.
 
